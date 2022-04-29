@@ -24,4 +24,4 @@ var_dump (deleteWithKey($table, 2));
 
 ?>
 
-wesh karim
+correction
